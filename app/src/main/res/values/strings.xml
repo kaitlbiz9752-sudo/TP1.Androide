@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">app</string>
+    <string name="nom">Nom :</string>
+    <string name="tapez_votre_nom">Tapez votre nom</string>
+
+    <array name="villes">
+        <item>Marrakech</item>
+        <item>Agadir</item>
+        <item>Casa</item>
+        <item>Rabat</item>
+    </array>
+
+</resources>
