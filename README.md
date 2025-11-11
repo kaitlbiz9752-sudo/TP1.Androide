@@ -78,12 +78,16 @@ Choisir un émulateur ou un appareil Android connecté.
 
 Tester :
 
+
+https://github.com/user-attachments/assets/eab6550e-1e64-48e9-b613-504a9a8694da
+
+
 Le bouton “Afficher Toast” : un message temporaire apparaît à l’écran.
 
 Le bouton “Incrémenter Compteur” : la valeur augmente à chaque appui.
 
 
-![WhatsApp Image 2025-11-11 à 18 50 11_087b655f](https://github.com/user-attachments/assets/3f6ca090-5ab1-4953-8aae-756c2ec69fa1)
+
 
 
 
